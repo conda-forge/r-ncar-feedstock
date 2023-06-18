@@ -1,11 +1,11 @@
-About r-ncar
-============
+About r-ncar-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ncar-feedstock/blob/main/LICENSE.txt)
 
 Home: https://cran.r-project.org/package=ncar
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ncar-feedstock/blob/main/LICENSE.txt)
 
 Summary: Conduct a noncompartmental analysis with industrial strength. Some features are 1) CDISC SDTM terms 2) Automatic or manual slope selection 3) Supporting both 'linear-up linear-down' and 'linear-up log-down' method 4) Interval(partial) AUCs with 'linear' or 'log' interpolation method 5) Produce pdf, rtf, text report files. * Reference: Gabrielsson J, Weiner D. Pharmacokinetic and Pharmacodynamic Data Analysis - Concepts and Applications. 5th ed. 2016. (ISBN:9198299107).
 
