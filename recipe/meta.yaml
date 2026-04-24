@@ -1,4 +1,4 @@
-{% set version = "0.5.1" %}
+{% set version = "0.6.0" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/ncar_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/ncar/ncar_{{ version }}.tar.gz
-  sha256: 72fd5c46a93367787a7eba636a52306850cc53bb233477e50ac1c113c2527316
+  sha256: 5bd9159eecbbed9cf019b8af291a275ab978557bc071160f9ad08def72327ce6
 
 build:
   number: 0
